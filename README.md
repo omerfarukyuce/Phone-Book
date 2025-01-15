@@ -34,14 +34,23 @@ The application provides a simple menu interface with the following options:
    - Closes the application
 
 ## 🏗️ Project Structure
+
 Phone-Book/
+
 │
+
 ├── main.c # Main program file
+
 ├── header.h # Structure definitions and function declarations
+
 ├── menu.h # Menu interface implementation
+
 ├── phoneadd.h # Contact addition functionality
+
 ├── phonelist.h # Contact listing functionality
+
 ├── phonesearch.h # Contact search functionality
+
 └── data.txt # Contact storage file
 
 ## 📝 License
