@@ -47,3 +47,9 @@ Phone-Book/
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## ⚠️ Known Issues
+
+- Search function is case-sensitive
+- No data validation for phone numbers
+- Limited character length for names
